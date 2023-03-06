@@ -23,6 +23,10 @@ nav {
   color: black;
   text-decoration: underline;
   cursor: pointer;
+    transition:0.5s all;
+}
+.bg-green:hover{
+    color:blue;
 }
 button{
   align-items: center;
